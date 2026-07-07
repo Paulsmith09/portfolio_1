@@ -2,7 +2,7 @@ import AboutImg from '../assets/about.png';
 
 export default function About () {
     const config  = {
-        line1: 'A passionate Full-Stack Web Developer specializing in React.js, Tailwind CSS, Bootstrap, and Django',
+        line1: 'A passionate Full-Stack Web Developer specializing in React.js,and Django,Tailwind CSS, Bootstrap,',
         line2: 'I build responsive, user-friendly, and scalable web applications with clean code and modern technologies.',
         line3: `'I also have experience working with SQLite and PostgreSQL, and I'm always eager to learn and grow as a developer.'`
     }
